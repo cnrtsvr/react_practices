@@ -1,3 +1,4 @@
 [submodule "react_weather_app"]
 	path = react_weather_app
 	url = https://github.com/cnrtsvr/react_weather_app.git
+	branch = master
